@@ -18,5 +18,5 @@
 |                         | Summertime Render                                                 | サマータイムレンダ                                                  | 9.25           |
 |                         | The Rising of the Shield Hero Season 2                            | 盾の勇者の成り上がり２                                              | 9.25           |
 |                         | In the Heart of Kunoichi Tsubaki                                  | くノ一ツバキの胸の内                                                | 9              |
-|                         | Spy × Family                                                      | SPY×FAMILY                                                          | 9              |
+|                         | Spy × Family                                                      |                                                           | 9              |
 |                         | Tomodachi Game                                                    | トモダチゲーム                                                      | 9               |
