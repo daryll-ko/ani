@@ -10,3 +10,9 @@
 |                 | Summertime Render (cour 2)                           | サマータイムレンダ (２クール)                                    |                |
 |                 | A Couple of Cuckoos (cour 2)                         | カッコウの許嫁 (２クール)                                        |                |
 |                 | When Will Ayumu Make His Move?                       | それでも歩は寄せてくる                                |                |
+## OP
+|             | Song (EN)              | Artist (EN)           | Show (EN)                           | Song (JP)      | Artist (JP) | Show (JP)                          |
+| ----------- | ---------------------- | --------------------- | ----------------------------------- | -------------- | ----------- | ---------------------------------- |
+| **Leading** | **Dance In The Game**  | **ZAQ**               | **Classroom of the Elite Season 2** |                |             | **ようこそ実力至上主義の教室へ２** |
+| Rank 2      | Himitsu Koi Gokoro     | CHiCO with HoneyWorks | Rent-a-Girlfriend Season 2          | ヒミツ恋ゴコロ |             | 彼女、お借りします２               |
+| Rank 3      | Kakehiki wa Poker Face | Kana Hanazawa         | When Will Ayumu Make His Move?      | 駆け引きはポーカーフェイス               | 花澤 香菜   | それでも歩は寄せてくる             |
