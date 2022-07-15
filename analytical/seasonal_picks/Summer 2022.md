@@ -6,7 +6,7 @@
 | 2               | Rent-a-Girlfriend Season 2                           | 彼女、お借りします２                                  | 10             |
 | 3               | When Will Ayumu Make His Move?                       | それでも歩は寄せてくる                                | 9.75            |
 | 4               | Summertime Render (cour 2)                           | サマータイムレンダ (２クール)                         | 9              |
-| 5               | Made in Abyss: The Golden City of the Scorching Sun  | メイドインアビス 烈日の黄金郷                         | 8.75           |
+| 5               | Made in Abyss: The Golden City of the Scorching Sun  | メイドインアビス 烈日の黄金郷                         | 8.5           |
 |                 | A Couple of Cuckoos (cour 2)                         | カッコウの許嫁 (２クール)                             |                |
 |                 | The Devil Is a Part-Timer! Season 2                  | はたらく魔王さま！！                                  |                |
 |                 | Is It Wrong to Try to Pick Up Girls in a Dungeon? IV | ダンジョンに出会いを求めるのは間違っているだろうか IV |                |
