@@ -16,7 +16,7 @@ All rows with blank entries in the first column are currently Honorable Mentions
 
 |             | Character (EN)          | Seiyuu (EN)      | Show (EN)                           | Character (JP)  | Seiyuu (JP)   | Show (JP)                          |
 | ----------- | ----------------------- | ---------------- | ----------------------------------- | --------------- | ------------- | ---------------------------------- |
-| **Leading** | **Kiyotaka Ayanokōji ** | **Shōya Chiba**  | **Classroom of the Elite Season 2** | **綾小路 清隆** | **千葉 翔也** | **ようこそ実力至上主義の教室へ２** |
+| **Leading** | **Kiyotaka Ayanokōji** | **Shōya Chiba**  | **Classroom of the Elite Season 2** | **綾小路 清隆** | **千葉 翔也** | **ようこそ実力至上主義の教室へ２** |
 | Rank 2      | Kei Karuizawa           | Ayana Taketatsu  | Classroom of the Elite Season 2     | 軽井沢 恵       | 竹達 彩奈     | ようこそ実力至上主義の教室へ２     |
 | Rank 3      | Chizuru Mizuhara        | Sora Amamiya     | Rent-a-Girlfriend Season 2          | 水原千鶴        | 雨宮 天       | 彼女、お借りします２               |
 |             | Honami Ichinose         | Nao Tōyama       | Classroom of the Elite Season 2     | 一之瀬 帆波     | 東山 奈央     | ようこそ実力至上主義の教室へ２     |
