@@ -23,7 +23,8 @@ All rows with blank entries in the first column are currently Honorable Mentions
 |             | Suzune Horikita        | Akari Kitō       | Classroom of the Elite Season 2     | 堀北 鈴音       | 鬼頭 明里     | ようこそ実力至上主義の教室へ２     |
 |             | Kakeru Ryūen           | Masaaki Mizunaka | Classroom of the Elite Season 2     | 龍園 翔         | 水中 雅章     | ようこそ実力至上主義の教室へ２     |
 |             | Sumi Sakurasawa        | Rie Takahashi    | Rent-a-Girlfriend Season 2          | 桜沢 墨         | 高橋 李依     | 彼女、お借りします２               |
-|             | Nanami Mami            | Aoi Yūki         | Rent-a-Girlfriend Season 2          | 七海麻美        | 悠木碧        | 彼女、お借りします２               |
+|             | Kazuya Kinoshita       | Shun Horie       | Rent-a-Girlfriend Season 2          | 木ノ下 和也     | 堀江 瞬       | 彼女、お借りします２               |
+|             | Mami Nanami            | Aoi Yūki         | Rent-a-Girlfriend Season 2          | 七海 麻美       | 悠木碧        | 彼女、お借りします２               |
 |             | Ruka Sarashina         | Nao Tōyama       | Rent-a-Girlfriend Season 2          | 更科 瑠夏       | 東山 奈央     | 彼女、お借りします２               |
 |             | Urushi Yaotome         | Kanna Nakamura   | When Will Ayumu Make His Move?      | 八乙女 うるし   | 中村 カンナ   | それでも歩は寄せてくる             |
 |             | Ayumu Tanaka           | Yōhei Azakami    | When Will Ayumu Make His Move?      | 田中 歩         | 阿座上 洋平   | それでも歩は寄せてくる             |
