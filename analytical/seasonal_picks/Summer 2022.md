@@ -2,7 +2,7 @@
 ## Overall
 | Current Ranking | Show (EN)                                            | Show (JP)                                             | Current Rating |
 | --------------- | ---------------------------------------------------- | ----------------------------------------------------- | -------------- |
-| **1**           | **Classroom of the Elite II**                  | **ようこそ実力至上主義の教室へ２**                    | **10**         |
+| **1**           | **Classroom of the Elite II**                  | **ようこそ実力至上主義の教室へ２**                    | **10.5**         |
 | 2               | Rent-a-Girlfriend Season 2                           | 彼女、お借りします２                                  | 10             |
 | 3               | When Will Ayumu Make His Move?                       | それでも歩は寄せてくる                                | 9.75           |
 | 4               | Summertime Render (cour 2)                           | サマータイムレンダ (２クール)                         | 8.75              |
