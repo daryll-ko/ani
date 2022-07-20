@@ -30,15 +30,17 @@ All rows with blank entries in the first column are currently Honorable Mentions
 |             | Ayumu Tanaka           | Yōhei Azakami    | When Will Ayumu Make His Move?      | 田中 歩         | 阿座上 洋平   | それでも歩は寄せてくる             |
 
 ## OP
-|             | Song (EN)              | Artist (EN)           | Show (EN)                           | Song (JP)      | Artist (JP) | Show (JP)                          |
-| ----------- | ---------------------- | --------------------- | ----------------------------------- | -------------- | ----------- | ---------------------------------- |
-| **Leading** | **Dance In The Game**  | **ZAQ**               | **Classroom of the Elite II** |                |             | **ようこそ実力至上主義の教室へ２** |
-| Rank 2      | Himitsu Koi Gokoro     | CHiCO with HoneyWorks | Rent-a-Girlfriend Season 2          | ヒミツ恋ゴコロ |             | 彼女、お借りします２               |
-| Rank 3      | Kakehiki wa Poker Face | Kana Hanazawa         | When Will Ayumu Make His Move?      | 駆け引きはポーカーフェイス               | 花澤 香菜   | それでも歩は寄せてくる             |
+|             | Song (EN)              | Artist (EN)           | Show (EN)                      | Song (JP)                  | Artist (JP) | Show (JP)                          |
+| ----------- | ---------------------- | --------------------- | ------------------------------ | -------------------------- | ----------- | ---------------------------------- |
+| **Leading** | **Dance In The Game**  | **ZAQ**               | **Classroom of the Elite II**  |                            |             | **ようこそ実力至上主義の教室へ２** |
+| Rank 2      | Himitsu Koi Gokoro     | CHiCO with HoneyWorks | Rent-a-Girlfriend Season 2     | ヒミツ恋ゴコロ             |             | 彼女、お借りします２               |
+| Rank 3      | ALIVE                  | ClariS                | Lycoris Recoil                 |                            |             | リコリス・リコイル                 |
+|             | Kakehiki wa Poker Face | Kana Hanazawa         | When Will Ayumu Make His Move? | 駆け引きはポーカーフェイス | 花澤 香菜   | それでも歩は寄せてくる             |
 
 ## ED
 |             | Song (EN)       | Artist (EN)         | Show (EN)                           | Song (JP)    | Artist (JP) | Show (JP)                      |
 | ----------- | --------------- | ------------------- | ----------------------------------- | ------------ | ----------- | ------------------------------ |
 | **Leading** | **Ienai**       | **MIMiNARI + asmi** | **Rent-a-Girlfriend Season 2**      | **言えない** |             | **彼女、お借りします２**       |
-| Rank 2      | Hito Shibai     | Mai Fuchigami       | Classroom of the Elite II     | 人芝居       | 渕上 舞     | ようこそ実力至上主義の教室へ２ |
-| Rank 3      | Suikyō no Sekai | Marina Horiuchi     | The Devil is a Part-Timer! Season 2 | 水鏡の世界   | 堀内 まり菜 | はたらく魔王さま！！           |
+| Rank 2      | Hito Shibai     | Mai Fuchigami       | Classroom of the Elite II           | 人芝居       | 渕上 舞     | ようこそ実力至上主義の教室へ２ |
+| Rank 3      | Hana no Tou     | SAYURI              | Lycoris Recoil                      | 花の塔       | さユり      | リコリス・リコイル             |
+|             | Suikyō no Sekai | Marina Horiuchi     | The Devil is a Part-Timer! Season 2 | 水鏡の世界   | 堀内 まり菜 | はたらく魔王さま！！           |
