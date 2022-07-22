@@ -1,4 +1,10 @@
 # Summer 2022 Seasonal Summary
+Tentative finalization dates:
+- Overall, Character: October 3
+- OP, ED: September 26
+
+よかふしのうた, リコリス • リコイル, and 異世界薬局 will be included in all 4 categories (OP and ED are simpler to reason out, and I'll be watching the shows themselves when October starts).
+
 ## Overall
 | Current Ranking | Show (EN)                                            | Show (JP)                                             | Current Rating |
 | --------------- | ---------------------------------------------------- | ----------------------------------------------------- | -------------- |
