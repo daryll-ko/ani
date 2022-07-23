@@ -43,8 +43,8 @@ All rows with blank entries in the first column are currently Honorable Mentions
 | ----------- | ---------------------- | --------------------- | ------------------------------ | -------------------------- | ----------- | ---------------------------------- |
 | **Leading** | **Dance In The Game**  | **ZAQ**               | **Classroom of the Elite II**  |                            |             | **ようこそ実力至上主義の教室へ２** |
 | Rank 2      | Himitsu Koi Gokoro     | CHiCO with HoneyWorks | Rent-a-Girlfriend Season 2     | ヒミツ恋ゴコロ             |             | 彼女、お借りします２               |
-| Rank 3      | ALIVE                  | ClariS                | Lycoris Recoil                 |                            |             | リコリス・リコイル                 |
-|             | Kakehiki wa Poker Face | Kana Hanazawa         | When Will Ayumu Make His Move? | 駆け引きはポーカーフェイス | 花澤 香菜   | それでも歩は寄せてくる             |
+| Rank 3      | Kakehiki wa Poker Face | Kana Hanazawa         | When Will Ayumu Make His Move? | 駆け引きはポーカーフェイス | 花澤 香菜   | それでも歩は寄せてくる             |
+|             | ALIVE                  | ClariS                | Lycoris Recoil                 |                            |             | リコリス・リコイル                 |
 
 ## ED
 |             | Song (EN)       | Artist (EN)         | Show (EN)                           | Song (JP)    | Artist (JP) | Show (JP)                      |
