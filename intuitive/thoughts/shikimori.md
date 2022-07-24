@@ -1,7 +1,8 @@
-![[shikimori.png]]
+![shikimori](../../images/shikimori.png)
 
-<center><b>可愛いだけじゃない式守さん</b></center>
-<center><b>Shikimori's Not Just a Cutie</b></center>
+<div align="center">
+<b>可愛いだけじゃない式守さん</b> • <b>Shikimori's Not Just a Cutie</b>
+</div>
 
 ---
 
