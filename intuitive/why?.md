@@ -13,7 +13,7 @@ It's the acceptance of the unknown that ultimately lead me to where I am today. 
 
 I think the joy of anime is in being able to look back at all the stories that have contributed to your worldview.
 
-[A Certain Scientific Railgun](https://anilist.co/anime/6213/) taught me the true meaning of trusting myself. [Journey of Elaina](https://anilist.co/manga/98741/) showed me the value of enjoying the journey over the destination. [New Game!](https://anilist.co/manga/85697/NEW-GAME/) helped me make sense of the things I love doing and why I loved doing them. [Classroom of the Elite](https://anilist.co/anime/145545/-2nd-Season/) pulled me out of the depths of rigidity and made me question the beliefs I had held onto for years on end.
+[A Certain Scientific Railgun](https://anilist.co/anime/6213/) taught me the true meaning of trusting myself. [Journey of Elaina](https://anilist.co/manga/98741/) showed me the value of enjoying the journey over the destination. [New Game!](https://anilist.co/manga/85697/NEW-GAME/) helped me make sense of the things I love doing and why I loved doing them. [Classroom of the Elite](https://anilist.co/manga/94970/) pulled me out of the depths of rigidity and made me question the beliefs I had held onto for years on end.
 
 I'm told that I'm vastly different from who I was two years ago. Different in that I seem to be more laid-back, willing to let life flow as it will. I say that all of that is thanks to anime.
 
