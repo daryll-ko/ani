@@ -1,4 +1,4 @@
-![](../../pokemon_journeys.jpeg)
+![pokemon_journeys](../../images/pokemon_journeys.jpeg)
 
 <div align="center">
 <b>ポケットモンスター (2019)</b> • <b>Pokémon Journeys</b>
