@@ -3,6 +3,6 @@
 
 There are two main folders in here: `analytical` and `intuitive`. They're named after one of my favorite [David Perell](https://perell.com/) essays: [Practice Analytically, Perform Intuitively](https://perell.com/essay/practice-analytically-perform-intuitively/). I think it's an incredible mental model to take into heart, even when it comes to appreciating a medium like anime.
 
-`analytical` contains things related to my rating system, setup, and seasonal picks.
+`analytical` contains info related to my rating system, setup, and seasonal picks.
 
-`intuitive` contains my thoughts on the shows I watch and the books I read. These are what go into my AniList notes.
+`intuitive` contains my thoughts on the shows I watch and the books I read. These are what go into my AniList notes. Everything here is a draft by default: my philosophy towards writing is that it's an infinitely iterative process.
